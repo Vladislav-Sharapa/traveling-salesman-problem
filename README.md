@@ -36,7 +36,7 @@ $ pip install -r requirements.txt
 
 ## Getting started
 
-To start the game run the script "main.py":
+To start the program run the script "main.py":
 ```
 $ python src/main.py
 ```
